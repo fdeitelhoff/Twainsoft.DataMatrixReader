@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Ressources/magnifier.png</file>
+        <file>Ressources/DataMatrixTest.png</file>
+        <file>Ressources/DataMatrixReader.png</file>
+    </qresource>
+</RCC>
